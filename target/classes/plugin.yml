@@ -1,0 +1,8 @@
+name: WorldBoundaryPlugin
+version: '0'
+main: top.earthvillage.worldboundaryplugin.WorldBoundaryPlugin
+api-version: '1.20'
+commands:
+  setconfig:
+    description: "设置边界自动传送各项数据"
+    usage: "/setconfig reload"

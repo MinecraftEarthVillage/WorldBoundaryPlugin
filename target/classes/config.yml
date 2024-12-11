@@ -1,0 +1,23 @@
+world1: # 第一个世界地图
+  x1: -20
+  x2: 20
+  z1: -10
+  z2: 10
+  x-wrapping: true
+  changeX: -1.0
+  changeZ: 1.0
+  z-wrapping: true
+  changeX: -1.0
+  changeZ: 1.0
+
+world2: # 第二个世界地图
+  x1: -20
+  x2: 20
+  z1: -10
+  z2: 10
+  x-wrapping: true
+  changeX: -1.0
+  changeZ: 1.0
+  z-wrapping: true
+  changeX: -1.0
+  changeZ: 1.0
